@@ -1,0 +1,11 @@
+{
+  "upgradeMultivalue": 1,
+  "upgradeFillrate": 2,
+  "upgradeCoinlimit": 3,
+  "upgradeYespac": 4,
+  "upgradeBoosts": true,
+  "countdown": 300,
+  "limit": 1000,
+  "doTasks": true,
+  "delayEachAccount": [1, 81]
+}
