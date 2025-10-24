@@ -8,7 +8,7 @@ If you encounter any issues or have questions, feel free to reach out:
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/theYescoin_bot/Yescoin?startapp=0k2wPJ)
+Play the game here: [Link](https://t.me/theYescoin_bot/Yescoin?startapp=0k2wPJ)
 
 ## 🚀 Getting Started
 
