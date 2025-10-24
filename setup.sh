@@ -57,7 +57,7 @@ while true; do
             clear
             print_yellow "Installing/Updating Node.js dependencies..."
             cd "$MODULES_DIR"
-            npm install user-agents axios meo-forkcy-colors meo-forkcy-utils p-limit https-proxy-agent socks-proxy-agent crypto-js 
+            npm install user-agents axios meo-forkcy-colors meo-forkcy-proxy meo-forkcy-utils meo-forkcy-logger
             cd - > /dev/null
             print_green "Dependencies installation completed!"
             read -p "Press Enter to continue..."
@@ -71,7 +71,7 @@ while true; do
 
             check_configs
 
-            for file in datas.txt wallets.txt proxies.txt; do
+            for file in datas.txt proxies.txt; do
                 if [ ! -f "$file" ]; then
                     touch "$file"
                     print_green "Created $file"
